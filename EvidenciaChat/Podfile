@@ -1,0 +1,21 @@
+# Uncomment the next line to define a global platform for your project
+ platform :ios, '11.0'
+
+target 'EvidenciaChat' do
+  pod 'CometChatPro', '3.0.5'
+  pod 'CometChatCalls', '2.1.1'
+ 
+
+end
+
+target 'EvidenciaChatTests' do
+   pod 'CometChatPro', '3.0.5'
+   pod 'CometChatCalls', '2.1.1'
+
+end
+
+target 'EvidenciaChatUITests' do
+   pod 'CometChatPro', '3.0.5'
+   pod 'CometChatCalls', '2.1.1'
+
+end

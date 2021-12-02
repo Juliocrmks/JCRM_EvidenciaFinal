@@ -1,0 +1,20 @@
+PODS:
+  - CometChatCalls (2.1.1)
+  - CometChatPro (3.0.5)
+
+DEPENDENCIES:
+  - CometChatCalls (= 2.1.1)
+  - CometChatPro (= 3.0.5)
+
+SPEC REPOS:
+  trunk:
+    - CometChatCalls
+    - CometChatPro
+
+SPEC CHECKSUMS:
+  CometChatCalls: fc68f63e91b117ec5ef5f269dddbeac1ee7bf1a5
+  CometChatPro: 3a8480985c53bd69b2230b481ae77fab214e2f29
+
+PODFILE CHECKSUM: f473148b168e0fc3178ccb82027739a24793486f
+
+COCOAPODS: 1.11.2
